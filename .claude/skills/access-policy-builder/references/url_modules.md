@@ -10,8 +10,7 @@
 | | `https://*.amazon.*/user-manager` | 用户权限管理 |
 | 商品管理(Inventory) | `https://*.amazon.*/inventory` | 库存管理 |
 | | `https://*.amazon.*/product-search` | 产品上架 |
-| 广告 | `https://*.amazon.*/advertising` | Seller Central广告板块 |
-| | `https://advertising.amazon.com` | 广告独立控制台 |
+| 广告 | `https://advertising.amazon.*/` | 广告模块全站点通配（覆盖 Campaign Manager、广告报告等所有子页） |
 | 买家消息(Communication) | `https://*.amazon.*/messaging/inbox` | 买家消息 |
 | 订单(Orders) | `https://*.amazon.*/orders-v3` | 订单管理 |
 | 财务/资金 | `https://*.amazon.*/payments` | 资金管理/支付报告 |

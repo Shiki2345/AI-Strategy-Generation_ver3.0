@@ -1,0 +1,11 @@
+{
+  "name": "ai-strategy-generation-module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-assisted strategy generation module",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.91.0",
+    "dotenv": "^17.4.2"
+  }
+}
